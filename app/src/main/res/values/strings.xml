@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Snooker Score</string>
+    <string name="red">Red</string>
+    <string name="black">Black</string>
+    <string name="pink">Pink</string>
+    <string name="blue">Blue</string>
+    <string name="yello">Yellow</string>
+    <string name="brown">Brown</string>
+    <string name="green">Green</string>
+    <string name="score">Score</string>
+    <string name="break_score">Break:</string>
+    <string name="left_on_table">Left on table:</string>
+    <string name="red_on_table">Red on table:</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player1_img_desc">Player 1 description.</string>
+    <string name="player2_img_desc">Player 2 description.</string>
+    <string name="text_p1_score">0</string>
+    <string name="text_p2_score">0</string>
+    <string name="text_break">0</string>
+    <string name="text_left_on_table">147</string>
+    <string name="miss">Miss</string>
+    <string name="foul_1">+1</string>
+    <string name="foul_4">+4</string>
+    <string name="foul_5">+5</string>
+    <string name="foul_6">+6</string>
+    <string name="foul_7">+7</string>
+    <string name="ahead">Ahead:</string>
+    <string name="behind">Behind:</string>
+    <string name="behind_ahead_score">0</string>
+</resources>
